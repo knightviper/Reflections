@@ -19,3 +19,8 @@ I can track down my mistakes
 Now that you have your workspace set up, what do you want to try using Git for?
 To experience version control
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+yayay
+
+
+

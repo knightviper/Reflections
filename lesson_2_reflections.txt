@@ -12,6 +12,11 @@ when experimenting with your code and not sure it will be successful
 How do the diagrams help you visualize the branch structure?
 It helps to visulaize each branch
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+it was merged
+
+
+
 
 
 

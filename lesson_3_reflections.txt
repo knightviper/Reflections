@@ -8,6 +8,7 @@ Forks to clone a repository from github to github, clones can be done from githu
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 
 
